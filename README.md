@@ -1,2 +1,0 @@
-# ml-coursera
-Machine Learning
